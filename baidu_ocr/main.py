@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
 
-'''
-author: 神奇的老黄
-gtihub: https://github.com/MH-Blog
-site: https://magichuang.cn
-date: 2019.02.14 23:08
-'''
+
 
 import base64
 import json
